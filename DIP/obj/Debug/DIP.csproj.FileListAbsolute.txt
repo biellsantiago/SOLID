@@ -1,0 +1,9 @@
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\DIP\bin\Debug\DIP.exe.config
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\DIP\bin\Debug\DIP.exe
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\DIP\bin\Debug\DIP.pdb
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\DIP\obj\Debug\DIP.csprojResolveAssemblyReference.cache
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\DIP\obj\Debug\DIP.exe
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\DIP\obj\Debug\DIP.pdb
+C:\Users\GABRIEL\Source\Repos\SOLID\DIP\bin\Debug\DIP.exe.config
+C:\Users\GABRIEL\Source\Repos\SOLID\DIP\obj\Debug\DIP.exe
+C:\Users\GABRIEL\Source\Repos\SOLID\DIP\obj\Debug\DIP.pdb

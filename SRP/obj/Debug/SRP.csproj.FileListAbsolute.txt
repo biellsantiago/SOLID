@@ -1,0 +1,6 @@
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\SRP\bin\Debug\SRP.exe.config
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\SRP\bin\Debug\SRP.exe
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\SRP\bin\Debug\SRP.pdb
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\SRP\obj\Debug\SRP.csprojResolveAssemblyReference.cache
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\SRP\obj\Debug\SRP.exe
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\SRP\obj\Debug\SRP.pdb

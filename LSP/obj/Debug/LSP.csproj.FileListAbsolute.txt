@@ -1,0 +1,5 @@
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\LSP\bin\Debug\LSP.exe.config
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\LSP\bin\Debug\LSP.exe
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\LSP\bin\Debug\LSP.pdb
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\LSP\obj\Debug\LSP.exe
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\LSP\obj\Debug\LSP.pdb

@@ -1,0 +1,6 @@
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\ISP\bin\Debug\ISP.exe.config
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\ISP\bin\Debug\ISP.exe
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\ISP\bin\Debug\ISP.pdb
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\ISP\obj\Debug\ISP.csprojResolveAssemblyReference.cache
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\ISP\obj\Debug\ISP.exe
+c:\users\gabri\onedrive\documents\visual studio 2015\Projects\SOLID\ISP\obj\Debug\ISP.pdb
